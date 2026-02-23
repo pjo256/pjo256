@@ -23,4 +23,4 @@
 - <img src="https://github.com/PrimeIntellect-ai.png" height="20" align="absmiddle"> **[verifiers](https://github.com/PrimeIntellect-ai/verifiers/pull/953)** - Accurate scoring metrics across rubrics for RLHF
 - <img src="https://github.com/DataDog.png" height="20" align="absmiddle"> **[datadog-agent](https://github.com/DataDog/datadog-agent/pull/46799)** - Cut GPU monitoring overhead by 9–23x
 - <img src="https://github.com/PathOfBuildingCommunity.png" height="20" align="absmiddle"> **[PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/8752)** - Fixed Coiling Whisper disabling all curses
-- <img src="https://github.com/bugcrowd.png" height="20" align="absmiddle"> **[Bugcrowd](https://bugcrowd.com/h/arcnum)** - Security researcher, active on bug bounty programs
+- <img src="https://github.com/bugcrowd.png" height="20" align="absmiddle"> **[Bugcrowd](https://bugcrowd.com/h/arcnum)** - Reporting vulnerabilities through bug bounty programs
