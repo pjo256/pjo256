@@ -16,7 +16,7 @@
 
 - <img src="https://github.com/kubernetes.png" height="20" align="absmiddle"> **[kubernetes](https://github.com/kubernetes/kubernetes/pull/108777)** - Check rollout status across multiple deployments at once
 - <img src="https://github.com/PufferAI.png" height="20" align="absmiddle"> **[PufferLib](https://github.com/PufferAI/PufferLib/pull/488)** - Train agent to dock spacecraft in orbit with RL
-- <img src="https://github.com/DataDog.png" height="20" align="absmiddle"> **[datadog-agent](https://github.com/DataDog/datadog-agent/pull/46799)** - Cut GPU monitoring overhead by 9–23x
+- <img src="https://github.com/DataDog.png" height="20" align="absmiddle"> **[datadog-agent](https://github.com/DataDog/datadog-agent/pull/46799)** - Cut GPU monitoring overhead by 9–23x, freeing ~250ms of CPU per second on 8-GPU nodes
 - 📜 **[microrlhf](https://gist.github.com/pjo256/c47cbd3eab6af765016c681c8b0df341)** - Dependency-free RLHF in Python, fine-tuning GPT to generate Tolkien-style names. Inspired by [@karpathy](https://github.com/karpathy)'s [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
 - <img src="https://github.com/NVIDIA.png" height="20" align="absmiddle"> **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL/pull/2002)** - Eliminate a multi-GPU bottleneck in distributed RL training
 - <img src="https://github.com/huggingface.png" height="20" align="absmiddle"> **[transformers](https://github.com/huggingface/transformers/pull/39587)** - Faster tokenization for multilingual models
