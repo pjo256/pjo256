@@ -19,6 +19,7 @@
 - <img src="https://github.com/DataDog.png" height="20" align="absmiddle"> **[datadog-agent](https://github.com/DataDog/datadog-agent/pull/46799)** - Cut GPU monitoring overhead by 9–23x, freeing ~250ms of CPU per second on 8-GPU nodes
 - 📜 **[microrlhf](https://gist.github.com/pjo256/c47cbd3eab6af765016c681c8b0df341)** - Dependency-free RLHF in Python, fine-tuning GPT to generate Tolkien-style names. Inspired by [@karpathy](https://github.com/karpathy)'s [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
 - <img src="https://github.com/NVIDIA.png" height="20" align="absmiddle"> **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL/pull/2002)** - Eliminate a multi-GPU bottleneck in distributed RL training
+- <img src="https://github.com/google.png" height="20" align="absmiddle"> **[tunix](https://github.com/google/tunix/pull/1179)** - Catch silent sample loss in micro-batches during RL fine-tuning
 - <img src="https://github.com/huggingface.png" height="20" align="absmiddle"> **[transformers](https://github.com/huggingface/transformers/pull/39587)** - Faster tokenization for multilingual models
 - <img src="https://github.com/vllm-project.png" height="20" align="absmiddle"> **[vllm](https://github.com/vllm-project/vllm/pull/34733)** - 2.5x faster tensor copies during inference batching
 - 🦙 **[LlamaFactory](https://github.com/hiyouga/LlamaFactory/pull/10225)** - Support mixed-modality inputs (image, video, audio) during LLM fine-tuning
