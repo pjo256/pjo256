@@ -11,6 +11,7 @@
 
 > Building ML systems for video and audio. Previously Principal ML Engineer at Vimeo, shipping AI features to 450k daily uploads.
 
+Dabbling in OSS while exploring what's next.
 
 ## Contributions
 
