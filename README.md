@@ -15,7 +15,7 @@ Dabbling in OSS while exploring what's next.
 
 ## Contributions
 
-- 🦞🧪 **[TensorClaw](https://github.com/pjo256/tensorclaw)** - Agentic research harness on top of [pi](https://github.com/badlogic/pi-mono): proposes hypothesis-based edits, runs experiments, keeps metric wins.
+- 🦞🧪 **[TensorClaw](https://github.com/pjo256/tensorclaw)** - Agentic research harness on top of [pi](https://github.com/badlogic/pi-mono): proposes hypothesis-based edits, runs experiments, keeps wins.
 - <img src="https://github.com/kubernetes.png" height="20" align="absmiddle"> **[kubernetes](https://github.com/kubernetes/kubernetes/pull/108777)** - Check rollout status across multiple deployments at once
 - <img src="https://github.com/PufferAI.png" height="20" align="absmiddle"> **[PufferLib](https://github.com/PufferAI/PufferLib/pull/488)** - Train agent to dock spacecraft in orbit with RL
 - <img src="https://github.com/DataDog.png" height="20" align="absmiddle"> **[datadog-agent](https://github.com/DataDog/datadog-agent/pull/46799)** - Cut GPU monitoring overhead by 9–23x, freeing ~250ms of CPU per second on 8-GPU nodes
